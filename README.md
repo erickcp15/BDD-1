@@ -9,3 +9,7 @@ https://github.com/erickcp15/Beer-Drinkers-Delight
 * Also Describing what the types of Breweries
 
 ### https://bdd-1.herokuapp.com/
+
+![](Images/Cup.png)
+
+![](Images/DEf.png)
